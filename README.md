@@ -15,6 +15,5 @@ The training of the model is done on the data set train.csv.
 Prediction :  prediction of the mortality of passangers in the data set test.csv.
 
 
-Author : Hamza OUHSSAINE
 
 # Machine-Learning-Titanc-Disaster
